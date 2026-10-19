@@ -83,12 +83,14 @@ const joao = {
 
 <div align="center">
 
-<a href="https://github.com/joaobagatim/PetShop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaobagatim&repo=PetShop&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/joaobagatim/snow-seasons">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaobagatim&repo=snow-seasons&theme=tokyonight&hide_border=true" />
 </a>
+
 <a href="https://github.com/joaobagatim/DjangoAula">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaobagatim&repo=DjangoAula&theme=tokyonight&hide_border=true" />
 </a>
+
 <a href="https://github.com/joaobagatim/BootstrapPetshop">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaobagatim&repo=BootstrapPetshop&theme=tokyonight&hide_border=true" />
 </a>
