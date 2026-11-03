@@ -21,7 +21,9 @@
 
 I'm **João**, a tech professional working in **Software QA & Test Automation** while building my path in **Software Development**.
 
-I enjoy the entire software lifecycle: turning ideas into interfaces and APIs, working with data, writing tests, investigating bugs, and making products more dependable. My experience spans **automated testing, Python APIs, SQL, ETL, and data analysis**.
+I enjoy the entire software lifecycle: turning ideas into interfaces and APIs, working with data, writing tests, investigating bugs, and making products more dependable.
+
+My experience spans **automated testing, Python APIs, SQL, ETL, and data analysis**.
 
 - 🧪 **Currently:** Software/QA Intern at **NPU – Nec Plus Ultra**, working with test cases, automation, bug investigation, and validation across the development cycle.
 - 🛠️ **Previously:** Data Intern at **ACIF**, developing Python APIs, SQL solutions, ETL workflows, automations, and Power BI dashboards.
@@ -29,6 +31,8 @@ I enjoy the entire software lifecycle: turning ideas into interfaces and APIs, w
 - 🏂 **Outside tech:** Snowboarding, traveling, and turning personal experiences into creative web projects.
 
 > **My approach:** Don't just make it work. Make it useful, maintainable, and testable.
+
+---
 
 ### 🧰 Tech toolbox
 
@@ -38,11 +42,13 @@ I enjoy the entire software lifecycle: turning ideas into interfaces and APIs, w
 
 <img src="https://skillicons.dev/icons?i=react,vite,js,ts,py,fastapi,tailwind&theme=dark" alt="React, Vite, JavaScript, TypeScript, Python, FastAPI and Tailwind CSS" />
 
+<br /><br />
+
 <p><strong>Testing · Automation & Quality</strong></p>
 
 <img src="https://skillicons.dev/icons?i=playwright,ts,py&theme=dark" alt="Playwright, TypeScript and Python" />
 
-<br />
+<br /><br />
 
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
 <img src="https://img.shields.io/badge/API%20Testing-1E293B?style=flat-square" alt="API Testing" />
@@ -54,7 +60,7 @@ I enjoy the entire software lifecycle: turning ideas into interfaces and APIs, w
 
 <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,githubactions,vscode&theme=dark" alt="PostgreSQL, Docker, Git, GitHub, GitHub Actions and VS Code" />
 
-<br />
+<br /><br />
 
 <sub>Also working with SQLAlchemy, Alembic, REST APIs, SQL, ETL, and Power BI.</sub>
 
@@ -70,9 +76,25 @@ I enjoy the entire software lifecycle: turning ideas into interfaces and APIs, w
 
 FinSight is a personal finance application designed to organize financial accounts, income, expenses, transfers, and financial insights in one place.
 
-**Implemented so far:** Authentication and user sessions, financial account management, transaction and transfer workflows, categories, a React interface, a PostgreSQL data model, and automated checks for both backend and frontend.
+The project combines modern web development, backend architecture, relational databases, and automated testing.
 
-**Next on the roadmap:** Bank statement imports, richer analytics dashboards, and financial trend/forecast features.
+**Implemented so far:**
+- User authentication and session management.
+- Financial account management.
+- Income, expense, and transfer workflows.
+- Financial category management.
+- React frontend integrated with a FastAPI backend.
+- PostgreSQL database with SQLAlchemy and Alembic.
+- Automated API, E2E, and backend tests.
+- Continuous integration with GitHub Actions.
+
+**Next on the roadmap:**
+- Bank statement imports.
+- Interactive analytics dashboards.
+- Financial trends and forecasting.
+- Additional financial planning tools.
+
+**Tech stack**
 
 `React` · `JavaScript` · `Vite` · `Tailwind CSS` · `FastAPI` · `Python` · `PostgreSQL` · `SQLAlchemy` · `Docker` · `Playwright` · `TypeScript` · `Pytest` · `GitHub Actions`
 
@@ -84,14 +106,21 @@ FinSight is a personal finance application designed to organize financial accoun
 
 **A creative React experience inspired by snowboarding, travel, and two winter seasons in the United States.**
 
-A visual project that transforms personal memories into an interactive website, with a dark editorial aesthetic, responsive layouts, season-based galleries, image lightboxes, and keyboard navigation.
+Snow Seasons is a visual portfolio that transforms personal memories into an interactive website.
+
+The project explores modern frontend development, creative interface design, responsiveness, and interactive navigation.
+
+**Key features:**
+- Responsive layout and dark editorial design.
+- Separate galleries for two winter seasons.
+- Interactive image galleries and lightbox navigation.
+- Keyboard navigation support.
+- Dynamic image loading.
+- Component-based architecture with React.
+
+**Tech stack**
 
 `React` · `JavaScript` · `Vite` · `React Router` · `CSS` · `Responsive Design`
-
-<div align="center">
-  <a href="https://github.com/joaobagatim/snow-seasons"><img width="48%" src="https://raw.githubusercontent.com/joaobagatim/snow-seasons/main/src/assets/images/covers/season-1-cover.webp" alt="Snow Seasons — First season" /></a>
-  <a href="https://github.com/joaobagatim/snow-seasons"><img width="48%" src="https://raw.githubusercontent.com/joaobagatim/snow-seasons/main/src/assets/images/covers/season-2-cover.webp" alt="Snow Seasons — Second season" /></a>
-</div>
 
 [**Explore Snow Seasons →**](https://github.com/joaobagatim/snow-seasons)
 
@@ -99,42 +128,99 @@ A visual project that transforms personal memories into an interactive website, 
 
 ### 🔬 Quality engineering in practice
 
-Development and QA aren't competing interests for me. Understanding **how software is built** makes me a better tester; thinking about **how software can fail** makes me a better developer.
+Development and QA aren't competing interests for me.
+
+Understanding **how software is built** makes me a better tester; thinking about **how software can fail** makes me a better developer.
+
+My approach to quality focuses on building reliable applications through automation, investigation, and continuous improvement.
 
 | Project | What it demonstrates |
 | :--- | :--- |
 | [**FinSight — Automated Quality Checks**](https://github.com/joaobagatim/FinSight) | API and browser tests with Playwright, backend tests with Pytest, and CI checks using GitHub Actions. |
 | [**Shopping Cart — Automated Tests**](https://github.com/joaobagatim/Trabalho-I-QA---Joao-Victor-Bagatim) | Python + Pytest, unit tests, boundary-value analysis, and validation of discount and shipping rules. |
 
+---
+
 ### 🎯 What I'm focused on
 
-```ts
+```typescript
 const nextChapter = {
-  build: ["Full-stack web applications", "REST APIs", "Data-driven products"],
-  test: ["E2E automation", "API testing", "Reliable CI pipelines"],
-  improve: ["Clean code", "Software architecture", "User experience"],
+  build: [
+    "Full-stack web applications",
+    "REST APIs",
+    "Data-driven products"
+  ],
+
+  test: [
+    "E2E automation",
+    "API testing",
+    "Reliable CI pipelines"
+  ],
+
+  improve: [
+    "Clean code",
+    "Software architecture",
+    "User experience"
+  ],
+
   mindset: "Learn. Build. Test. Iterate."
 };
 ```
 
-### 📊 GitHub at a glance
+---
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joaobagatim&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="João's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobagatim&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages on GitHub" />
-</div>
+### ⚡ My engineering mindset
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Build</h4>
+      Design and develop functional applications using modern technologies, well-structured APIs, and maintainable code.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧪 Test</h4>
+      Improve software reliability through automated testing, exploratory investigation, and continuous validation.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 Analyze</h4>
+      Transform data into meaningful insights using Python, SQL, ETL pipelines, and analytical tools.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Evolve</h4>
+      Continuously explore new technologies, improve development practices, and turn ideas into real projects.
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
 
+### 🤝 Let's connect
+
 **Interested in collaborating or talking about development and software quality?**
 
-<a href="https://www.linkedin.com/in/joaovictorbagatim">Let's connect on LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:joaobagatim86@gmail.com">Send me an email</a>
+I'm always open to exchanging ideas, discussing technology, and exploring new opportunities.
+
+<br />
+
+<a href="https://www.linkedin.com/in/joaovictorbagatim">
+  <img src="https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+
+<a href="mailto:joaobagatim86@gmail.com">
+  <img src="https://img.shields.io/badge/Get%20in%20touch-Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+</a>
 
 <br /><br />
 
+**`while (learning) { build(); test(); improve(); }`**
+
 <sub>Built with curiosity, refined through testing. ⚡</sub>
+
+<br />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:0B1220,45:2563EB,100:7C3AED" alt="" />
 
