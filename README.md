@@ -124,6 +124,27 @@ The project explores modern frontend development, creative interface design, res
 
 [**Explore Snow Seasons →**](https://github.com/joaobagatim/snow-seasons)
 
+<br />
+
+#### 🎓 [SENAI — Academic Projects | Development & QA](https://github.com/joaobagatim/SENAI)
+
+**A collection of hands-on projects documenting my journey in Software Development and Quality Engineering.**
+
+This repository brings together academic assignments, programming exercises, and practical projects developed throughout my **Systems Analysis and Development degree at UniSENAI**.
+
+Organized into two main learning tracks, it reflects my technical progression in building applications, understanding software behavior, and applying software quality practices.
+
+**Learning tracks:**
+
+- 🧪 **[Quality Assurance](https://github.com/joaobagatim/SENAI/tree/main/QA):** Unit testing, integration testing, regression testing, business-rule validation, and automated testing with Python and Pytest.
+- 💻 **[Web Development](https://github.com/joaobagatim/SENAI/tree/main/Desenvolvimento-Web):** JavaScript fundamentals, React applications, responsive interfaces, Bootstrap, and unit testing with Jest.
+
+**Tech stack**
+
+`Python` · `Pytest` · `JavaScript` · `Jest` · `React` · `HTML` · `CSS` · `Bootstrap` · `Git`
+
+[**Explore SENAI Projects →**](https://github.com/joaobagatim/SENAI)
+
 ---
 
 ### 🔬 Quality engineering in practice
@@ -137,7 +158,9 @@ My approach to quality focuses on building reliable applications through automat
 | Project | What it demonstrates |
 | :--- | :--- |
 | [**FinSight — Automated Quality Checks**](https://github.com/joaobagatim/FinSight) | API and browser tests with Playwright, backend tests with Pytest, and CI checks using GitHub Actions. |
-| [**Shopping Cart — Automated Tests**](https://github.com/joaobagatim/Trabalho-I-QA---Joao-Victor-Bagatim) | Python + Pytest, unit tests, boundary-value analysis, and validation of discount and shipping rules. |
+| [**SENAI — Integration Testing**](https://github.com/joaobagatim/SENAI/tree/main/QA/Trabalho-Assincrono-Teste-de-Integracao) | Integration tests using Python, Pytest, and SQLite, including database transactions, business rules, and test isolation. |
+| [**SENAI — Regression Testing**](https://github.com/joaobagatim/SENAI/tree/main/QA/AtividadeTesteRegressao_QualidadeTestesSoftware) | Regression testing and validation of e-commerce functionality using Python. |
+| [**SENAI — Unit Testing**](https://github.com/joaobagatim/SENAI/tree/main/QA/Trabalho-I-QA---Joao-Victor-Bagatim) | Python + Pytest, boundary-value analysis, business-rule validation, and automated unit tests. |
 
 ---
 
